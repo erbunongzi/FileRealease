@@ -1,0 +1,15 @@
+.main {
+    width: 350px;
+}
+
+.main .button {
+    width: 300px;
+    margin: 0 0 0 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main .button >button{
+    width: 70px;
+}
